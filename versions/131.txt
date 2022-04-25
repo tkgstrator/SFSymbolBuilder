@@ -1,0 +1,16 @@
+paperclip.circle
+paperclip.circle.fill
+circle.grid.2x2
+circle.grid.2x2.fill
+flashlight.off.fill
+flashlight.on.fill
+scissors.badge.ellipsis
+pin.circle
+pin.circle.fill
+mappin.circle
+mappin.circle.fill
+car
+studentdesk
+aspectratio
+aspectratio.fill
+arrow.uturn.left.circle.badge.ellipsis

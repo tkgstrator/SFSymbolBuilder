@@ -1,0 +1,14 @@
+character.bubble
+character.bubble.fill
+applewatch.side.right
+airpodsmax
+homepodmini
+homepodmini.fill
+homepodmini.2
+homepodmini.2.fill
+homepod.and.homepodmini
+homepod.and.homepodmini.fill
+hifispeaker.and.homepodmini
+hifispeaker.and.homepodmini.fill
+character.cursor.ibeam
+character.textbox

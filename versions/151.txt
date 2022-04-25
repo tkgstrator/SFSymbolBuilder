@@ -1,0 +1,13 @@
+bolt.ring.closed
+platter.filled.top.iphone
+platter.filled.bottom.iphone
+platter.filled.top.and.arrow.up.iphone
+platter.filled.bottom.and.arrow.down.iphone
+square.3.layers.3d.down.right
+square.3.layers.3d.down.left
+square.3.layers.3d.down.forward
+square.3.layers.3d.down.backward
+text.justify.left
+text.justify.right
+text.justify.leading
+text.justify.trailing
